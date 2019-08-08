@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+*.sqlite3
+*~
+media
+local_settings.py
+admin_site
+.idea
+__pycache__
+.coverage
+node_modules
+celerybeat-schedule.*
+.vscode
+.python-version
+celerybeat-schedule
